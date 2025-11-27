@@ -1,0 +1,27 @@
+ZerodhaCluster
+Dynamics of Communication: 
+Definition and process 
+Kinesics
+Proxemics Paralinguistic
+features 
+Importance of Interpersonal and Intercultural Communication in today’s
+organisations
+
+account password
+JONiCxp3MJbyLOhJ
+username 
+harshabodani461
+connection code
+mongodb+srv://harshabodani461:<db_password>@cluster0.e3j44.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+zS8r1O2zekZ8BTZt-zerodha clone
+
+https://github.com/DEEP13-2-5/Zerodha_clone
+
+harshabodani461
+pass word--- T4GMSXIZV1N4ckqL
+mongodb+srv://harshabodani461:T4GMSXIZV1N4ckqL@videocluster.b34yc.mongodb.net/?retryWrites=true&w=majority&appName=VideoCluster
+
+harshabodani461
+mJc1tU1hAND4gnUL
+mongodb+srv://harshabodani461:mJc1tU1hAND4gnUL@cluster0.yl3tw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
